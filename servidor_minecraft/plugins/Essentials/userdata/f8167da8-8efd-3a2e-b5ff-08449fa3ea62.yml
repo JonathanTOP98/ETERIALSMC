@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 127.27.179.199
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1722443531976
+  login: 1722537767915
+money: '0'
+last-account-name: JonnyTOP98
+logoutlocation:
+  world: abc41dbf-698a-494e-a82a-7a269116817a
+  world-name: ETERS
+  x: 45.69738420131615
+  y: 73.0
+  z: 298.29654392402824
+  yaw: 72.9000244140625
+  pitch: 6.300098896026611

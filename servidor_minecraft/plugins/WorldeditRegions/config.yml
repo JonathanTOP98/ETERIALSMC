@@ -1,0 +1,14 @@
+version: 1.0.5
+max-region-count-per-player: 7
+ignore-worlds:
+- PlotMe
+- PlotWorld
+factions:
+  max-chunk-traversal: 10
+create:
+  add-owner: true
+  expand-vert: true
+worldguard:
+  require-custom-flag: false
+language: english
+max-claim-area: 1024

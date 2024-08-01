@@ -1,0 +1,51 @@
+prefix: '&8[&bPlayerTime&cLimit&8] '
+commandReload: '&a¡Configuración recargada!'
+noPermissions: '&cNo tienes permisos.'
+bossBarMessage: '&7Te queda &e%time% &7de tiempo para jugar en el servidor.'
+actionBarMessage: '&7Te queda &e%time% &7de tiempo para jugar en el servidor.'
+messageEnabled: '&7Has &aactivado &7el mensaje de información de límite de tiempo.'
+messageDisabled: '&7Has &cdesactivado &7el mensaje de información de límite de tiempo.'
+playerDoesNotExists: '&cEse jugador no existe.'
+timeSeconds: s
+timeMinutes: m
+timeHours: h
+timeDays: d
+timeInfinite: ∞
+kickMessage:
+- '&c&l¡EXPULSADO DEL SERVIDOR!'
+- '&7Has sido expulsado porque se te acabó el tiempo de juego por hoy.'
+- '&7¡Vuelve mañana para seguir jugando!'
+- ''
+- '&7Discord: &bdiscord.miServidor.com'
+- '&7Compra un &aRANGO &7para obtener más tiempo!'
+- '&atienda.miServidor.com'
+joinErrorMessage:
+- '&c&l¡ERROR!'
+- '&7Se te acabó el tiempo de juego por hoy. Vuelve mañana'
+- '&7para seguir jugando!'
+- ''
+- '&7Discord: &bdiscord.miServidor.com'
+- '&7Compra un &aRANGO &7para obtener más tiempo!'
+- '&atienda.miServidor.com'
+infoCommandMessage:
+- '&c&m                                          '
+- '&7Hora exacta en la que se restablecerán los tiempos de juego:'
+- '&e%reset_time%'
+- ''
+- '&7Tiempo restante hasta el reinicio:'
+- '&e%remaining%'
+- '&c&m                                          '
+checkCommandMessage:
+- '&c&m                                          '
+- '&7&lDatos de %player%:'
+- '&7Tiempo restante: &a%time_left%'
+- '&7Tiempo total jugado: &a%total_time%'
+- '&c&m                                          '
+commandResetTimeError: '&cDebes usar: &7/ptl resettime <jugador>'
+commandResetTimeCorrect: '&a¡El tiempo actual ha sido restablecido para el jugador &7%player%&a!'
+commandTakeTimeError: '&cDebes usar: &7/ptl taketime <jugador> <tiempo>'
+invalidNumber: '&c¡Debes usar un número válido!'
+commandTakeTimeCorrect: '&a¡Se han tomado &7%time% segundos &adel tiempo de &7%player%&a!'
+playerNotOnline: '&cEse jugador no está en línea.'
+commandAddTimeError: '&cDebes usar: &7/ptl addtime <jugador> <tiempo>'
+commandAddTimeCorrect: '&a¡Se han añadido &7%time% segundos &aal tiempo de &7%player%&a!'

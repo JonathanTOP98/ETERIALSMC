@@ -1,0 +1,19 @@
+CooldownInSeconds: 25
+#Mensaje de solicitud
+Line1: "&6&lTpa > &aSolicitud de TPA de &6/sender/" 
+Line2: "&aEscribe &b&l/tpaccept &apara aceptar o &c&l/tpdeny &apara rechazar"
+#Mensaje de solicitud enviada
+RequestSent: "&6&lTpa > &aSolicitud de TPA enviada a &6/target/"
+#Solicitud aceptada o rechazada
+RequestAcceptedTeleport: "&6/sender/ &aha sido teletransportado a ti!"
+RequestAccepted: "&6/target/ &aaceptó la teletransportación!"
+NoRequestToAccept: "&c&lTpa > &7¡No hay ninguna solicitud para aceptar!"
+RequestDeniedTeleport: "&c&lTpa > &6/target/ &7rechazó la teletransportación"
+RequestDenied: "&c&lTpa > &7Rechazaste la teletransportación"
+NoRequestToDeny: "&c&lTpa > &7¡No hay ninguna solicitud para rechazar!"
+#Errores
+CooldownError: "&c&lTpa > &7Debes esperar antes de enviar una nueva solicitud de TPA"
+PlayerInAnotherWorldError: "&c&lTpa > &7¡No puedes teletransportarte a un jugador en otro mundo!"
+SpecifyPlayerError: "&c&lTpa > &7¡Por favor especifica un jugador!"
+PlayerDoesNotExistError: "&c&lTpa > &7¡Ese jugador no existe!"
+TpaFromConsoleError: "&c¡No puedes usar el plugin desde la consola!"
